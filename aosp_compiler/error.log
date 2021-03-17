@@ -1,0 +1,17 @@
+[libswitch-perl]
+Can't locate Switch.pm in @INC (you may need to install the Switch module) (@INC contains: /etc/perl /usr/local/lib/perl/5.18.2 /usr/local/share/perl/5.18.2 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.18 /usr/share/perl/5.18 /usr/local/lib/site_perl .) at /home/channing/workspace/realtek/rtd1296/build_scripts/bootcode/tools/flash_writer/tools/script/gen_rsa_pattern.pl line 27.
+
+[gawk]
+Makefile:245: warning: overriding commands for target `distclean'
+/home/channing/workspace/realtek/rtd1296/build_scripts/OpenWrt-ImageBuilder-rtd1295-mnas_emmc.Linux-x86_64/include/toplevel.mk:235: warning: ignoring old commands for target `distclean'
+awk: include/scan.awk: line 21: function asort never defined
+
+[bsdmainutils]
+/bin/sh: 1: hexdump: not found
+awk: include/scan.awk: line 21: function asort never defined
+
+[ccache]
+/home/channing/workspace/realtek/rtd1296/build_scripts/OpenWrt-ImageBuilder-rtd1295-mnas_emmc.Linux-x86_64/staging_dir/host/bin/ccache_cc: 2: exec: ccache: not found
+
+[python]
+/usr/bin/env: python: No such file or directory
